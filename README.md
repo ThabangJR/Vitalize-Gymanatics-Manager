@@ -1,6 +1,7 @@
 # Vitalize-Gymanatics-Manager
 
-"A simple Gymanstics Management System built with PHP and MySQL").
+A simple Gymanstics Management System built with PHP and MySQL").
+Designed to monitor gymnasts's attendance, score and selected programs
 
 ## 🚀 Features
 * **User Authentication:** Secure login and registration.
@@ -30,12 +31,11 @@ git clone [https://github.com/yourusername/your-repo-name.git](https://github.co
 
 *Select the VitalizeGym.sql file located in the /config folder of this project and click Go.
 
-3. Configure the Connection
+Configure the Connection
 Find the databse.php (or your connection file) in the directory.
 
-
-Update the credentials to match your local environment:
-$host = "localhost";
-$user = "root";
-$pass = ""; // Default for XAMPP is empty
-$dbname = "new_project_db";
+### Update the credentials to match your local environment:
+## $host = "localhost";
+## $user = "root";
+## $pass = ""; // Default for XAMPP is empty
+## $dbname = "new_project_db";
