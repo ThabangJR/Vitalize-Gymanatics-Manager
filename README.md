@@ -20,7 +20,7 @@ Follow these steps to get the project running locally:
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/ThabangJR/Vitalize-Gymanatics-Manager.git)
 ###  Setting Up the Database
 *Open phpMyAdmin.
 
