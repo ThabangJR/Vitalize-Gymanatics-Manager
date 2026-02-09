@@ -35,7 +35,7 @@ Configure the Connection
 Find the databse.php (or your connection file) in the directory.
 
 ## Update the credentials to match your local environment:
-# $host = "localhost";
-# $user = "root";
-# $pass = ""; // Default for XAMPP is empty
-# $dbname = "new_project_db";
+$host = "localhost";
+$user = "root";
+$pass = ""; // Default for XAMPP is empty
+$dbname = "new_project_db";
